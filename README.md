@@ -30,7 +30,7 @@
   akan menampilkan tulisan berhasil registrasi atau membuat akun 
   <img width="940" height="492" alt="image" src="https://github.com/user-attachments/assets/41a8e257-fbdd-412f-9723-82315c2a1809" />
 
-  2.  Tampilkan/Sembunyikan Password: Tambahkan ikon mata pada TextField password yang bisa ditekan untuk menampilkan atau menyembunyikan teks password
+2. Tampilkan/Sembunyikan Password: Tambahkan ikon mata pada TextField password yang bisa ditekan untuk menampilkan atau menyembunyikan teks password
 - register
    
  <img width="440" height="320" alt="image" src="https://github.com/user-attachments/assets/74664f27-57a6-43dd-b721-a4ce9647dfdd" />
@@ -123,6 +123,7 @@
 
 
     
+
 
 
 
